@@ -20,7 +20,7 @@
 </nav>
 
 <br>
-<p>This is student lists.</p>
+<p class="blockquote text-center">This is student lists.</p>
 <a href="create.php" class="btn btn-primary ms-5" tabindex="-1" role="button" aria-disabled="true">Create</a>
 <br>
 <br>
